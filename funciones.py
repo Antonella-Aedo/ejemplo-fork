@@ -3,3 +3,6 @@ def saludar():
 
 def despedir():
     print("chao")
+
+def buenos_días():
+    print("Buenos Días")
