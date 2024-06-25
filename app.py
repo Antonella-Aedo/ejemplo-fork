@@ -1,1 +1,3 @@
-print("hola")
+from funciones import saludar
+
+saludar()
