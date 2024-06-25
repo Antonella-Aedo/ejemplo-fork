@@ -1,3 +1,4 @@
-from funciones import saludar
+from funciones import saludar, despedir
 
 saludar()
+despedir()
